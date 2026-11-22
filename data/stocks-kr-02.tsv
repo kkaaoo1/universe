@@ -1121,6 +1121,7 @@ symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
 299030	하나기술		KR	kosdaq	코스닥	KRW	ST
 067310	하나마이크론		KR	kosdaq	코스닥	KRW	ST
 166090	하나머티리얼즈		KR	kosdaq	코스닥	KRW	ST
+271160	하나에어로		KR	kosdaq	코스닥	KRW	ST
 293480	하나제약		KR	kospi	코스피	KRW	ST
 039130	하나투어		KR	kospi	코스피	KRW	ST
 136480	하림		KR	kosdaq	코스닥	KRW	ST
