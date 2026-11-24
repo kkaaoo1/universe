@@ -217,6 +217,7 @@ symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
 226590	엠디바이스		KR	kosdaq	코스닥	KRW	ST
 058970	엠로		KR	kosdaq	코스닥	KRW	ST
 169330	엠브레인		KR	kosdaq	코스닥	KRW	ST
+498150	엠비디		KR	kosdaq	코스닥	KRW	ST
 097520	엠씨넥스		KR	kospi	코스피	KRW	ST
 373170	엠아이큐브솔루션		KR	kosdaq	코스닥	KRW	ST
 179290	엠아이텍		KR	kosdaq	코스닥	KRW	ST
