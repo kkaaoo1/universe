@@ -1,4 +1,5 @@
 symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
+FNKO	펀코	FUNKO INC	US	NAS	나스닥	USD	COMMON
 PDCC	펄 다이버 크레딧 컴퍼니	PEARL DIVER CREDIT COMPANY  INC	US	NYS	뉴욕증권거래소	USD	COMMON
 PDPA	펄 다이버 크레딧 컴퍼니 우선주 A(2029 8.000%)	PEARL DIVER CREDIT COMPANY  INC 8.00% SER A TERM PREF STK DU	US	NYS	뉴욕증권거래소	USD	COMMON
 PLSE	펄스 바이오사이언시스	PULSE BIOSCIENCES INC	US	NAS	나스닥	USD	COMMON
