@@ -1,6 +1,4 @@
 symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
-321820	아티스트컴퍼니		KR	kosdaq	코스닥	KRW	ST
-102950	아하		KR	konex	코넥스	KRW	ST
 001540	안국약품		KR	kosdaq	코스닥	KRW	ST
 053800	안랩		KR	kosdaq	코스닥	KRW	ST
 251280	안지오랩		KR	konex	코넥스	KRW	ST
@@ -1181,6 +1179,7 @@ symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
 000970	한국주철관		KR	kospi	코스피	KRW	ST
 104700	한국철강		KR	kospi	코스피	KRW	ST
 062970	한국첨단소재		KR	kosdaq	코스닥	KRW	ST
+223310	한국첨단솔루션		KR	kosdaq	코스닥	KRW	ST
 017960	한국카본		KR	kospi	코스피	KRW	ST
 023760	한국캐피탈		KR	kosdaq	코스닥	KRW	ST
 054040	한국컴퓨터		KR	kosdaq	코스닥	KRW	ST

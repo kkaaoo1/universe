@@ -1062,7 +1062,6 @@ symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
 007160	사조산업		KR	kospi	코스피	KRW	ST
 014710	사조씨푸드		KR	kospi	코스피	KRW	ST
 006090	사조오양		KR	kospi	코스피	KRW	ST
-223310	사토시홀딩스		KR	kosdaq	코스닥	KRW	ST
 452430	사피엔반도체		KR	kosdaq	코스닥	KRW	ST
 419120	산돌		KR	kosdaq	코스닥	KRW	ST
 062040	산일전기		KR	kospi	코스피	KRW	ST
@@ -1342,7 +1341,6 @@ symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
 481850	신한글로벌액티브리츠		KR	kospi	코스피	KRW	RT
 404990	신한서부티엔디리츠		KR	kospi	코스피	KRW	RT
 293940	신한알파리츠		KR	kospi	코스피	KRW	RT
-474660	신한제12호스팩		KR	kosdaq	코스닥	KRW	ST
 474930	신한제13호스팩		KR	kosdaq	코스닥	KRW	ST
 487360	신한제14호스팩		KR	kosdaq	코스닥	KRW	ST
 487830	신한제15호스팩		KR	kosdaq	코스닥	KRW	ST
@@ -1499,3 +1497,5 @@ symbol	name	english_name	market	exchange	exchange_name	currency	asset_type
 0007C0	아크릴		KR	kosdaq	코스닥	KRW	ST
 158430	아톤		KR	kosdaq	코스닥	KRW	ST
 297570	아틀라스링크		KR	kosdaq	코스닥	KRW	ST
+321820	아티스트컴퍼니		KR	kosdaq	코스닥	KRW	ST
+102950	아하		KR	konex	코넥스	KRW	ST
